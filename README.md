@@ -1,6 +1,6 @@
 # Hi Naan Restaurant
 
-A modern, responsive landing page and digital menu application for the Hi Naan Restaurant (Gampaha Branch). Built to showcase the restaurant's authentic Indian culinary offerings, vibrant ambiance, and provide an interactive browsing experience for customers.
+A modern, responsive landing page and digital menu application for the Hi Naan Restaurant (kottawa and Gampaha Branches). Built to showcase the restaurant's authentic Indian culinary offerings, vibrant ambiance, and provide an interactive browsing experience for customers.
 
 ## Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
