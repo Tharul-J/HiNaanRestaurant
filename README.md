@@ -1,20 +1,37 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Hi Naan Restaurant
 
-# Run and deploy your AI Studio app
+Welcome to the Hi Naan Restaurant (Gampaha Branch) website project! 
 
-This contains everything you need to run your app locally.
+This is a modern React web application built with Vite, Tailwind CSS, and Framer Motion.
 
-View your app in AI Studio: https://ai.studio/apps/04b3475a-434b-4ced-9d3f-4ecdedf70897
+## Getting Started
 
-## Run Locally
+### Prerequisites
+- Node.js installed on your machine
 
-**Prerequisites:**  Node.js
+### Installation
 
+1. Clone the repository and navigate into the project folder:
+   `ash
+   git clone https://github.com/Tharul-J/HiNaanRestaurant.git
+   cd HiNaanRestaurant
+   ``n
+2. Install the dependencies:
+   `ash
+   npm install
+   ``n
+3. Start the development server:
+   `ash
+   npm run dev
+   ``n
+4. Open your browser and visit "http://localhost:3000" to view the application.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Technologies Used
+- React 19
+- Vite
+- Tailwind CSS v4
+- Framer Motion
+- Lucide React
+
+## License
+MIT
