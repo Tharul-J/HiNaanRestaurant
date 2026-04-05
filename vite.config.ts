@@ -5,6 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: '/HiNaanRestaurant/', // Required for GitHub Pages deployment
     plugins: [react(), tailwindcss()],
     // ADD THIS BLOCK to ignore global PostCSS configs:
     css: {

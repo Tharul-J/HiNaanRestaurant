@@ -741,7 +741,7 @@ export default function App() {
 
   return (
     <BranchContext.Provider value={{ branch, setBranch, data: branchData[branch] }}>
-      <BrowserRouter>
+      <BrowserRouter basename="/HiNaanRestaurant/">
         <div className="min-h-screen bg-charcoal-950 selection:bg-saffron-500 selection:text-charcoal-950">
           <Navbar />
           <Routes>
