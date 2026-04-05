@@ -1,5 +1,7 @@
 # Hi Naan Restaurant
 
+**🌐 Live Preview:** [https://tharul-j.github.io/HiNaanRestaurant/](https://tharul-j.github.io/HiNaanRestaurant/)
+
 A modern, responsive landing page and digital menu application for the Hi Naan Restaurant (kottawa and Gampaha Branches). Built to showcase the restaurant's authentic Indian culinary offerings, vibrant ambiance, and provide an interactive browsing experience for customers.
 
 ## Tech Stack
